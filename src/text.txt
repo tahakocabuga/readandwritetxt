@@ -1,1 +1,1 @@
-
+This is the file when you save words in Write.java you have to run Read.java to see me!
